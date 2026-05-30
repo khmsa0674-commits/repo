@@ -1,0 +1,34 @@
+# البيئة والأسرار
+.env
+*.db
+*.sqlite
+*.sqlite3
+
+# ملفات مؤقتة
+*.log
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+tmp/
+temp/
+
+# ملفات الكوكيز (حساسة)
+*_cookies.txt
+cookies.txt
+
+# ملفات الفيديو المحملة
+*.mp4
+*.mkv
+*.webm
+*.mov
+
+# بيئة Python
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
